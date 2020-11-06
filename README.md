@@ -1,4 +1,8 @@
-# boiler-plate
+# boilerplate-vue-framwork
+
+```
+Includes Vue Router, VueX, Vuetify, and Material Design Icons.
+```
 
 ## Project setup
 ```
